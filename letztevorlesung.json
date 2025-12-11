@@ -1,0 +1,17 @@
+{
+  "title": "Chat mit letzter Vorlesung",
+  "temperature": 0.5,
+  "enable_tools": true,
+  "top_p": 0.5,
+  "arcana": {
+    "id": "michael.kallweit01/Digitale Medien 25-26-8d212481-1c95-45fd-8769-6f1ad238f512"
+  },
+  "model": "qwen3-30b-a3b-thinking-2507",
+  "model-name": "Qwen 3 30B A3B Thinking 2507",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a helpful assistant."
+    }
+  ]
+}
